@@ -4,6 +4,8 @@
 ## 🤝🏿 Connect with me here
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markuswalker/)](https://www.linkedin.com/in/markuswalker/)
+[![Website Badge](https://img.shields.io/badge/-themarkuszone.com-black?style=flat-square&logo=google-chrome&logoColor=white)](https://themarkuszone.com)
+
 
 ## 💻 Working Technical Skills
 
@@ -35,9 +37,3 @@
 #### Infrastructure
 ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins)
-
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=markusewalker&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
-
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=markusewalker&layout=compact&count_private=true&theme=dark)
